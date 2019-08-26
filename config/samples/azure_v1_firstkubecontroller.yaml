@@ -1,0 +1,7 @@
+apiVersion: azure.microsoft.com/v1
+kind: FirstKubeController
+metadata:
+  name: firstkubecontroller-sample
+spec:
+  # Add fields here
+  foo: bar

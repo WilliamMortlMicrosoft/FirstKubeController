@@ -1,0 +1,7 @@
+version: "2"
+domain: microsoft.com
+repo: github.com/WilliamMortlMicrosoft/FirstKubeController
+resources:
+- group: azure
+  version: v1
+  kind: FirstKubeController
